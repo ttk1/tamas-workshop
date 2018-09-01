@@ -8,7 +8,7 @@ tama[@mscle11](https://twitter.com/mscle11)による、謎の一人プロジェ�
 - 技術同人誌製作（いつかしたい）
 
 などなど。  
-アクティビティは低いですが、マイペースでまったりと開発！
+アクティビティは低いですが、マイペースでまったりと開発してます。
 
 ## リンク
 - [たまーず工房のwiki](https://github.com/ttk1/tamas-workshop/wiki)
