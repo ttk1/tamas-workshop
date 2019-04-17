@@ -1,6 +1,9 @@
 # Tama's Workshop (たまーず工房)
+
+***～～～まったり開発もどき～～～***
+
 ## たまーず工房とは
-tama[@mscle11](https://twitter.com/mscle11)による、謎の~~1人~~プロジェクト。  
+tama[@mscle11](https://twitter.com/mscle11)による、個人サークル。  
 - サーバー構築
 - Minecraft開発
 - Webアプリ開発
