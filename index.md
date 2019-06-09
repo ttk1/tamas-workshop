@@ -8,10 +8,9 @@ tama[@mscle11](https://twitter.com/mscle11)による、個人サークル。
 - Minecraft開発
 - Webアプリ開発
 - 電子工作
-- 技術同人誌製作（いつかしたい）
+- 技術同人誌製作
 
-などなど。  
-アクティビティは低いですが、マイペースでまったりと開発してます。
+などなど。マイペースでまったりと開発してます。
 
 ## リンク
 - [たまーず工房のwiki](https://github.com/ttk1/tamas-workshop/wiki)
