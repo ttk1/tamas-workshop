@@ -3,12 +3,18 @@
 ![カバー](./cover.png)
 
 ## 著者
-  * tama
-    * GitHub: [@ttk1](https://github.com/ttk1)
-    * Twitter: [@mscle11](https://twitter.com/mscle11)
-  * Happinessfield
-    * GitHub: [@yasuda0102](https://github.com/yasuda0102)
-    * Twitter: [@Happinessfield](https://twitter.com/Happinessfield)
+
+* tama
+  * GitHub: [@ttk1](https://github.com/ttk1)
+  * Twitter: [@mscle11](https://twitter.com/mscle11)
+* Happinessfield
+  * GitHub: [@yasuda0102](https://github.com/yasuda0102)
+  * Twitter: [@Happinessfield](https://twitter.com/Happinessfield)
+
+## 概要
+
+* 初出イベント
+  * [技術書典7 2019-09-22](https://techbookfest.org/event/tbf07/circle/5088651352473600)
 
 ## 目次
 
@@ -43,3 +49,5 @@
 * [sample.html](https://github.com/ttk1/tamas-workshop/tree/master/m2tb/sample01.html)
   * [デモ](./sample01.html)
 * [WebGLTemplate](https://github.com/ttk1/WebGLTemplate)
+
+## ???
