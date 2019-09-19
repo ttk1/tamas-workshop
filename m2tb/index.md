@@ -29,3 +29,9 @@
 * あとがき
 
 ## ソースコード
+
+本書で紹介したコードはこちらからダウンロードできます。
+
+* [sample.html](https://github.com/ttk1/tamas-workshop/tree/master/m2tb/sample01.html)
+  * [デモ](./sample01.html)
+* [WebGLTemplate](https://github.com/ttk1/WebGLTemplate)
