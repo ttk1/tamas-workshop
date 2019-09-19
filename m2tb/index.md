@@ -2,6 +2,14 @@
 
 ![カバー](./cover.png)
 
+## 著者
+  * tama
+    * GitHub: [@ttk1](https://github.com/ttk1)
+    * Twitter: [@mscle11](https://twitter.com/mscle11)
+  * Happinessfield
+    * GitHub: [@yasuda0102](https://github.com/yasuda0102)
+    * Twitter: [@Happinessfield](https://twitter.com/Happinessfield)
+
 ## 目次
 
 * 前書き
