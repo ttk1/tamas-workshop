@@ -47,14 +47,14 @@
 本書で紹介したコードはこちらからダウンロードできます。
 
 * 第2章
-  * [sample01.html](https://github.com/ttk1/tamas-workshop/tree/master/m2tb/sample01.html)
+  * [sample01.html](https://github.com/ttk1/tamas-workshop/tree/master/m2tb/demo/sample01.html)
     * [デモ](./demo/sample01.html)
   * [WebGLTemplate](https://github.com/ttk1/WebGLTemplate)
 * 第3章
   * [Transform Feedbackを用いた計算サンプル](https://github.com/ttk1/TransformFeedbackSample)
     * [デモ](./demo/sample02.html)
 * 第4章
-  * [多体問題の実装例(高負荷に注意)](https://github.com/ttk1/n-body)
+  * [多体問題の実装例（高負荷に注意）](https://github.com/ttk1/n-body)
     * [デモ](./demo/sample03.html)
 
 ## 補足等
