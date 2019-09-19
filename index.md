@@ -1,10 +1,10 @@
 # Tama's Workshop (たまーず工房)
 
+![ロゴ](./logo.png)
+
 ***～～～まったり開発もどき～～～***
 
 ## たまーず工房とは
-
-![ロゴ](./logo.png)
 
 tama[@mscle11](https://twitter.com/mscle11)による、個人サークル。  
 - サーバー構築
