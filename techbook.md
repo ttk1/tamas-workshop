@@ -9,4 +9,4 @@
 * [技術書典7 2019-09-22](https://techbookfest.org/event/tbf07/circle/5088651352473600)
   * たまーず工房として技術書出しました
   * WebGLでGPGPUするという、面白い試みについて書きました。
-  * [紹介ページ](./m2tb/index)
+  * [紹介ページ](./m2tb/index.html)
