@@ -8,7 +8,7 @@ tama[@mscle11](https://twitter.com/mscle11)による、個人サークル。
 - Minecraft開発
 - Webアプリ開発
 - 電子工作
-- [技術同人誌製作](./techbook)
+- [技術同人誌製作](./techbook.html)
 
 などなど。マイペースでまったりと開発してます。
 
