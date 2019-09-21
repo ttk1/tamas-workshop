@@ -58,6 +58,7 @@
   * [sample01.html](https://github.com/ttk1/tamas-workshop/tree/master/m2tb/demo/sample01.html)
     * [デモ](./demo/sample01.html)
   * [WebGLTemplate](https://github.com/ttk1/WebGLTemplate)
+    * 環境構築の節で作った、WebGLプロジェクトのたたき台
 * 第3章
   * [Transform Feedbackを用いた計算サンプル](https://github.com/ttk1/TransformFeedbackSample)
     * [デモ](./demo/sample02.html)
