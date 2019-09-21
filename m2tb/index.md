@@ -62,8 +62,10 @@
   * [Transform Feedbackを用いた計算サンプル](https://github.com/ttk1/TransformFeedbackSample)
     * [デモ](./demo/sample02.html)
 * 第4章
-  * [多体問題の実装例](https://github.com/ttk1/n-body)
+  * [多体問題の実装例（GPGPU版）](https://github.com/ttk1/n-body)
     * [デモ（高負荷に注意）](./demo/sample03.html)
+  * [多体問題の実装例（GPGPUじゃない版）](https://github.com/ttk1/n-body-js)
+    * [デモ（高負荷に注意）](./demo/sample04.html)
 
 ### 注意
 
