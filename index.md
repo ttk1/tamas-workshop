@@ -19,7 +19,7 @@ tama[@mscle11](https://twitter.com/mscle11)による、個人サークル。
 興味があれば気軽に声をかけてください。 
 
 ## 連絡先  
-twitter: [@mscle11](https://twitter.com/mscle11)  
-mail: [tama@ttk1.net](mailto:tama@ttk1.net)  
+Twitter: [@mscle11](https://twitter.com/mscle11)  
+Mail: [tama@ttk1.net](mailto:tama@ttk1.net)  
 
 since 2018/02/11
