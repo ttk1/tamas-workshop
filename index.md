@@ -1,7 +1,3 @@
-# たまーず工房
-
-![ロゴ](./logo.png)
-
 ## たまーず工房とは
 
 tama[@mscle11](https://twitter.com/mscle11)による、個人サークル。  
