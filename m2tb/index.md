@@ -105,10 +105,6 @@ mat2 d = mat2(1.0); // = mat2(1.0, 0.0,
 
 でした。
 
-## その他
-
-* [このページのソースコード](https://github.com/ttk1/tamas-workshop/tree/master/m2tb)
-
 ## おまけ
 
 * [著者がWebGLの練習で作ったもの](https://wglp.ttk1.dev/)
