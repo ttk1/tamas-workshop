@@ -1,3 +1,5 @@
+# Tama's Workshop（たまーず工房）
+
 ## たまーず工房とは
 
 tama[@mscle11](https://twitter.com/mscle11)による、個人サークル。  
@@ -12,7 +14,6 @@ tama[@mscle11](https://twitter.com/mscle11)による、個人サークル。
 ## リンク
 - [たまーず工房のwiki](https://github.com/ttk1/tamas-workshop/wiki)
 - [たまーず工房のconnpass](https://tamas-workshop.connpass.com)
-- [このページのソースコード](https://github.com/ttk1/tamas-workshop)
 
 ## Join Us
 興味があれば気軽に声をかけてください。 
