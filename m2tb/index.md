@@ -72,8 +72,6 @@
 * 第4章
   * [多体問題の実装例（GPGPU版）](https://github.com/ttk1/n-body)
     * [デモ（高負荷に注意）](./demo/sample03.html)
-  * [多体問題の実装例（GPGPUじゃない版）](https://github.com/ttk1/n-body-js)
-    * [デモ（高負荷に注意）](./demo/sample04.html)
 
 ### 注意
 
@@ -107,5 +105,9 @@ mat2 d = mat2(1.0); // = mat2(1.0, 0.0,
 
 ## おまけ
 
+* [多体問題の実装例（GPGPUじゃない版）](https://github.com/ttk1/n-body-js)
+  * [デモ（高負荷に注意）](./demo/sample04.html)
+* [多体問題の実装例（GPGPU版）をマウスでぐりぐり動くようにしたもの](https://github.com/ttk1/n-body-3d)
+  * [デモ（高負荷に注意）](./demo/sample05.html)
 * [著者がWebGLの練習で作ったもの](https://wglp.ttk1.dev/)
   * よかったらどうぞ
